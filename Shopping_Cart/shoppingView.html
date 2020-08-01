@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h1>TEST WORKING</h1>
+
+
+
+
+	<div id="wrapper">
+
+		<div id="header">
+			<h2>Shopping Cart Application</h2>
+
+		</div>
+
+	</div>
+
+
+	<div id="container">
+
+		<div id="content">
+
+			<!-- Adding a button -->
+			<!-- type = what is it-->
+			<!-- Value = text inside the button -->
+			<input type="button" value="TEST User"
+				onclick="window.location.href = 'add-student-form.jsp'; return false;"
+				class="add-student-button" />
+
+
+			<style type="text/css">
+.myTable {
+	background-color: #eee;
+	border-collapse: collapse;
+}
+
+.myTable th {
+	background-color: #F0F8FF;
+	color: black;
+	width: 28%;
+}
+
+.myTable td, .myTable th {
+	padding: 25px;
+	border: 1px solid #000;
+}
+</style>
+			<table class="myTable">
+				<tr>
+					<th>Book Name</th>
+					<th>Description</th>
+					<th>Author</th>
+					<th>Action</th>
+				</tr>
+
+
+				<tr>
+					<td>test book name</td>
+					<td>test description</td>
+					<td>test Author</td>
+
+					<td><a
+						href="${pageContext.request.contextPath}/Servlet_Student_DataBase?command=LOAD&studentId=<%= index.getId() %>">Update</a>
+
+						| <a
+						href="${pageContext.request.contextPath}/Servlet_Student_DataBase?command=DELETE&studentId=<%= index.getId() %> 
+ "
+						onclick="if (!(confirm('Are you sure you want to delete this student?'))) return false">Delete</a>
+					</td>
+
+
+
+				</tr>
+
+
+
+			</table>
+
+
+		</div>
+
+
+	</div>
+
+
+
+</body>
+</html>
+
+
