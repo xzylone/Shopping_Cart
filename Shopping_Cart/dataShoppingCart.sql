@@ -1,0 +1,45 @@
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('mgiller0', 'S2briiPK1c', 'Miranda', 'Giller', 'mgiller0@spotify.com', '444 Atwood Parkway');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('mrashleigh1', '6oA3L7g8Ca4N', 'Melisandra', 'Rashleigh', 'mrashleigh1@g.co', '7229 Maryland Pass');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('sbargh2', 'immaUW', 'Staffard', 'Bargh', 'sbargh2@weibo.com', '325 Onsgard Place');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('gbritzius3', 'FLKy7xDBHh2x', 'Gayelord', 'Britzius', 'gbritzius3@comsenz.com', '1667 Fordem Lane');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('ncoalburn4', 'pZINyUQKp', 'Neville', 'Coalburn', 'ncoalburn4@ihg.com', '61 Hermina Center');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('rvescovo5', 'isVxjXvk', 'Rozanne', 'Vescovo', 'rvescovo5@slideshare.net', '85135 West Parkway');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('sdurrett6', 'T6yzF6dlltHP', 'Selestina', 'Durrett', 'sdurrett6@ihg.com', '821 Independence Road');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('rduffer7', 'xxFbeVj', 'Romonda', 'Duffer', 'rduffer7@jigsy.com', '17 Nobel Point');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('mbente8', 'ykU48W', 'Munmro', 'Bente', 'mbente8@baidu.com', '10 Manitowish Avenue');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('pansteys9', 'm4Y96C', 'Pet', 'Ansteys', 'pansteys9@foxnews.com', '735 Burrows Park');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('sbellchambera', 'e577uZh3pQ', 'Shem', 'Bellchamber', 'sbellchambera@sitemeter.com', '2 Springs Street');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('ttealb', 'sneEXZNcxd', 'Tuesday', 'Teal', 'ttealb@merriam-webster.com', '542 Warbler Hill');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('mgrievec', 'hnk0teEn6J1S', 'Melosa', 'Grieve', 'mgrievec@macromedia.com', '190 Lyons Point');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('bteligad', '8H4rKZG2CrKq', 'Burlie', 'Teliga', 'bteligad@lulu.com', '250 Red Cloud Street');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('skeenlysidee', 'TKP7Yij6', 'Starla', 'Keenlyside', 'skeenlysidee@cloudflare.com', '40 Jenna Center');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('erosf', '9Ec6XO8JABU', 'Ernaline', 'Ros', 'erosf@360.cn', '95 Mcbride Point');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('thardwickg', 'JLHuQFU', 'Tucker', 'Hardwick', 'thardwickg@zdnet.com', '58 Prentice Way');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('lwaddamsh', 'DyxsV9P32zq', 'Louis', 'Waddams', 'lwaddamsh@virginia.edu', '273 Pankratz Way');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('salredi', 'nsDsZD4x', 'Stefa', 'Alred', 'salredi@dedecms.com', '052 Weeping Birch Pass');
+insert into userProfile (user_name, pass_word, first_name, last_name, email, address) values ('lsellsj', 'eBXZOef14HFm', 'Lenci', 'Sells', 'lsellsj@time.com', '4 Dakota Park');
+
+
+
+
+
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('ce31da76-50ad-4aeb-a667-4d266a854514', 'ac', 76, 'Dian Tighe', 'Drama', 'Allstate Corporation (The)', '2007-08-30', 139);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('f6d60c6d-3020-453a-b204-a85a4422ffd8', 'ridiculus', 38, 'Linc Creffield', 'Drama', 'Lions Gate Entertainment Corporation', '2018-02-08', 020);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('7fd9108d-3a29-4c13-b987-9ea9bb3e5cc0', 'a', 5, 'Jaimie Palfrey', 'Drama', 'Nuveen AMT-Free Quality Municipal Income Fund', '1983-06-13', 141);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('547711a2-cae3-42a0-9cf1-93ff431bf123', 'vel nulla', 16, 'Hana Serjeantson', 'Drama|Romance', 'Methanex Corporation', '1921-06-14', 913);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('815a2f1b-9d85-4630-bf58-976d25c02113', 'pellentesque ultrices', 82, 'Lind Boissier', 'Adventure|Animation|Children|Drama|Fantasy', 'Fidelity Nasdaq Composite Index Tracking Stock', '1947-09-04', 3311);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('6793417c-3cde-41b6-99fd-2ad46de0c55a', 'eget semper rutrum', 10, 'Caryn Sawle', 'Documentary', 'TapImmune Inc.', '1967-04-04', 735);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('ce8ab158-170c-4e33-a257-93503f42461b', 'maecenas', 42, 'Nelle McGing', 'Western', 'Strattec Security Corporation', '1978-07-02', 469);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('c04ec8e8-9ba2-4516-b0d8-66bf9b562a11', 'libero', 79, 'Jerry Elsegood', 'Documentary', 'Lydall, Inc.', '1987-04-20', 311);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('2f10af05-3109-46cf-ab84-fd7c62c3e63a', 'nullam orci pede', 71, 'Stormi Pincott', 'Drama|Horror|Thriller', 'Nuven Mortgage Opportunity Term Fund 2', '1930-01-05', 8316);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('ed950261-d406-4acb-a7d0-79b01aa4a887', 'et commodo vulputate', 73, 'Pippo Brockie', 'Comedy|Drama', 'CoreSite Realty Corporation', '1933-01-02', 6697);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('bcf3cd6d-a4fc-4330-893f-ead16633d7d1', 'sit', 43, 'Shell Lemoir', 'Thriller', 'WEC Energy Group, Inc.', '1965-01-03', 058);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('e3e985f1-07a6-4124-8810-0ba302cf7648', 'turpis eget', 16, 'Marjy Lane', 'Documentary', 'Meritor, Inc.', '1931-05-26', 731);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('d36ccb76-62a9-483e-b23b-e9c86a131885', 'tellus nulla ut', 21, 'Reinhold Lardeux', 'Drama', 'Reis, Inc', '2015-08-07', 721);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('6ba1b402-ec62-428a-8052-ff6c10937523', 'sit amet', 51, 'Claudius Peteri', 'Mystery', 'Altra Industrial Motion Corp.', '2004-11-30', 456);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('13e7b882-afe8-4a20-80fc-31feefc75f8a', 'turpis', 16, 'Ashlin Fanthom', 'Crime', 'Pioneer Natural Resources Company', '1961-05-13', 36);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('fdaeddbc-6b8a-41b2-8aca-acc550af0a96', 'vestibulum ante ipsum', 59, 'Rodina Cronkshaw', 'Action|Adventure|Animation|Children|Comedy|IMAX', 'Kenon Holdings Ltd.', '1937-09-04', 3473);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('a7b66304-627f-4d2d-87d7-e4af88eb01c8', 'odio consequat varius', 25, 'Skell Hollier', 'Documentary', 'Broadcom Limited', '1966-03-29', 655);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('0d2b70bf-0703-4401-abc5-934ea7878bb3', 'libero', 36, 'Ursuline Lamburn', 'Drama', 'Movado Group Inc.', '1965-01-08', 942);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('687840ae-e93a-4b86-868b-8d2152a2bbbb', 'morbi vestibulum', 17, 'Gale Huitt', 'Comedy', 'Vanguard Short-Term Corporate Bond ETF', '1908-11-16', 651);
+insert into bookDetail (ISBN, book_name, price, author, genre, publisher, year_published, copies_sold) values ('5f31717b-d4d4-4329-95ed-9c5970a71883', 'lectus', 90, 'Gene Smeeth', 'Drama', 'Diamond Hill Investment Group, Inc.', '1902-12-12', 249);
